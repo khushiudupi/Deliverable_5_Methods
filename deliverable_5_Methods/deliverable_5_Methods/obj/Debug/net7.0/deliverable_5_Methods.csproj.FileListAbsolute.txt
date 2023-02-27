@@ -1,0 +1,15 @@
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/bin/Debug/net7.0/deliverable_5_Methods
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/bin/Debug/net7.0/deliverable_5_Methods.deps.json
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/bin/Debug/net7.0/deliverable_5_Methods.runtimeconfig.json
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/bin/Debug/net7.0/deliverable_5_Methods.dll
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/bin/Debug/net7.0/deliverable_5_Methods.pdb
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/deliverable_5_Methods.csproj.AssemblyReference.cache
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/deliverable_5_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/deliverable_5_Methods.AssemblyInfoInputs.cache
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/deliverable_5_Methods.AssemblyInfo.cs
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/deliverable_5_Methods.csproj.CoreCompileInputs.cache
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/deliverable_5_Methods.dll
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/refint/deliverable_5_Methods.dll
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/deliverable_5_Methods.pdb
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/deliverable_5_Methods.genruntimeconfig.cache
+/Users/khushiudupi/Desktop/deliverable_5_Methods/deliverable_5_Methods/obj/Debug/net7.0/ref/deliverable_5_Methods.dll
